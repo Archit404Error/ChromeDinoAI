@@ -15,7 +15,7 @@ After that, the simulation will begin to run and train automatically!
 
 Here's an example of what this will look like:
 
-<img src = dinoTraining.png>
+<img src = dinotraining.png>
 
 As can be seen, several paddles and balls begin moving at once. The colors indicate which paddle corresponds to which ball and brick wall.
 
