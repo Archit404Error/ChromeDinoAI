@@ -17,7 +17,7 @@ Here's an example of what this will look like:
 
 <img src = dinotraining.png>
 
-As can be seen, several paddles and balls begin moving at once. The colors indicate which paddle corresponds to which ball and brick wall.
+As can be seen, several dinos begin moving at once. Stats are displayed in the top left of the screen, and each dino must jump over the same set of obstacles(the cacti). Clouds also float in from time to time, but they are simply cosmetic.
 
 ## Adjusting the AI
 Screen width and height can be found at the beginning of the main.py file and can be manually adjusted. Evolutionary parameters(number of players, number of input/output/hidden layers, etc.) can be found and adjusted in the config-feedforward.txt file.
